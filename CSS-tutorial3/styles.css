@@ -13,3 +13,6 @@
     color:red;
     background: gray;
 }
+.uppercase{
+    text-transform: uppercase;
+}
