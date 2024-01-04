@@ -1,0 +1,26 @@
+/* RGBA A-opacity/transperancy 0-1 */
+/* As the number goes down from 1 to lower, the opacity decreases and style becomes more and more transperant */
+#first {
+color: rgba(255, 0, 0, 1);
+background: rgba(0, 0, 0, 0);
+
+   }
+
+#second {
+    color: rgba(255, 0, 0, 0.75);
+    background: rgba(0, 0, 0, 0);
+}
+
+#third {
+    color: rgba(255, 0, 0, 0.25);
+    background: rgba(0, 0, 0, 0);
+}
+
+#fourth {
+    color: rgba(0, 255, 0, 0.75);
+    background: rgba(0, 0, 0, 1);
+}
+
+body {
+    background: rgba(210, 89, 210, 0.4);
+}
