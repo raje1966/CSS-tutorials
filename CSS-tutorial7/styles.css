@@ -1,0 +1,23 @@
+/* color, background-color, background */
+/* color names */
+/* rgb, rgba, Hex, vs code color options, external resources */
+/* color properties */
+
+#first {
+    color:rgb(255, 0, 0);
+    background-color:rgb(0, 0, 0);
+}
+#second{
+    color:rgb(0, 255, 0);
+    background: rgb(120,20, 100);
+}
+#third{
+    color: rgb(0, 180, 200);
+    background: rgb(255, 255, 255);
+}
+#fourth{
+    color: rgb(120, 20, 190)
+}
+body{
+    background: rgb(180, 10, 170);
+}
