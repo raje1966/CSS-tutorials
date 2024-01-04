@@ -1,0 +1,23 @@
+/*interitance*/
+/* Children inherit styles from parents, unless they have their own styles.*/
+/* here in this example, we have body as the parent tag, which will extend its inheritance */
+
+/* in this example, we have a paragraph, which is a child of parent body, and it has its own style in the form of class: green, so therefore, it will override the effects of parent 'body' and have its own style effects */
+
+/* In another example, h2 is the child of parent 'body' and when given the styles of its own, it overrides the effects of parent 'body' */
+
+/* One more instance, is when we put the paragraphs in a div and as the div is an immediate parent of paragraph, it will inherit the styles of div instead of distant parent 'body' */
+
+/* Also one needs to remember that only the property that the child has is overriden, but rest of the properties of the parent will be inherited by the child */
+body{
+    color: red;
+}
+.green{
+    color: green;
+}
+h2{
+    color: blue;
+}
+div{
+    color:aqua;
+}
