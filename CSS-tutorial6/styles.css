@@ -1,0 +1,29 @@
+/* last rule and specificity * universal selector */
+
+/* As shown in this stylesheet, if you style an element twice with the same property, in the same stylesheet, the second property will override the first one mentioned in the stylesheet like in here. */
+
+/*now, what is specificity, if we add class and ids to the element, then the styles of the class and ids will override the styles.  In between the twos, ids have more specificity than the class as shown here*/ 
+
+/* .specific{
+    color: yellow;
+}
+p{
+    color: red;
+}
+
+/* more code in here */
+/* 
+p{
+    color: blue;
+}
+.heading {
+    color:blueviolet;
+}
+#heading {
+    color:brown;
+} */ 
+
+/* *universal selector selects all the elements that are on the page. point to note that is universal selector has the least specificity among the other element styles */
+*{
+ color: Red;
+}
