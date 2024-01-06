@@ -1,0 +1,19 @@
+/* text-align, text-indent */
+
+body{
+    text-align: right;
+    
+}
+.main-heading{
+    text-align: center;
+}
+.sub-heading{
+
+}
+.one{
+
+}
+.two{
+    text-align: left;
+    text-indent: 50px;
+}
