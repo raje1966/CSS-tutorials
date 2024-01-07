@@ -1,0 +1,38 @@
+/* CCS BOX MODEL 
+CSS box model
+padding
+margin
+border
+border-radius, negative margin
+padding is the distance between content and the edge of the element.
+padding order is top, right, bottom, and left
+
+margin is the distance between the screen and the edge of the element or between element and another element
+
+outline is a line that is drawn outside of the borders to make elements standout.*/
+/* h1, p{
+    color: white;
+}
+h1{
+    background: red;
+    padding: 10px; */
+    /* margin: 3rem; */
+    /* border-style: solid;
+    border-width: 10px;
+    border-color: chartreuse; */
+    /* border-bottom: 0.5rem dotted blue; */
+    /* border-bottom-style: double;
+    border-bottom-color: green;
+    border-bottom-width: 20px; */
+    /* border: 15px solid black;
+    border-radius: 5px;
+}
+p{
+    background: blue; */
+    /* border: 1rem dashed red;
+    margin: 3rem 4px 50px 10px; */
+    /* padding: 15px;
+    border: 7px dotted green;
+    border-radius: 50%;
+    margin-top: -50px;
+} */
